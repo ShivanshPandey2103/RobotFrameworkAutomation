@@ -16,6 +16,10 @@ public class TestngD1 {      // JUST AN INTRODUCTION TO TESTNG , I AM CREATING S
 	public void logouttest() {
 		
 		System.out.println("logout test passed");
+		System.out.print("hello github");
+		System.out.print("git by downloading into system");
+
+               
 		
 	}
 	
